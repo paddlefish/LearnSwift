@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='advanced_types'/>
+        <page name='advanced_types_solution'/>
+        <page name='advanced_type_conversion'/>
+        <page name='advanced_type_conversion_solution'/>
+        <page name='advanced_tuples'/>
+        <page name='advanced_tuples_solution'/>
+        <page name='optional_chaining'/>
+        <page name='optional_chaining_solution'/>
+        <page name='Advanced Strings'/>
+        <page name='class_struct'/>
+        <page name='class_struct_solution'/>
+        <page name='advanced_switch'/>
+        <page name='advanced_switch_solution'/>
+        <page name='advanced_closure'/>
+        <page name='advanced_closure_solution'/>
+        <page name='computed_properties'/>
+        <page name='computed_properties_solution'/>
+        <page name='inheritance'/>
+        <page name='inheritance_solution'/>
+        <page name='initialization'/>
+        <page name='initialization_solution'/>
+        <page name='reference_counting'/>
+        <page name='reference_counting_solution'/>
+        <page name='reference_counting_solution2'/>
+        <page name='leaky'/>
+        <page name='leaky_solution'/>
+        <page name='extensions'/>
+        <page name='extensions_solution'/>
+    </pages>
+</playground>
